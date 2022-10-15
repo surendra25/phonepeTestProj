@@ -1,4 +1,4 @@
-#### <H>Efficient In memory queue management
+#### <H>In memory queue management
 
 This project is springboot web application which will perform in memory queue operations for 
 producer and consumer. Messages can be produced using rest api call and consumers will consume once 
